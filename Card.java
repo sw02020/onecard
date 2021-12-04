@@ -12,7 +12,7 @@ public class Card {
     public String getCardShape() {
     	//카드 모양
     }
-    pubic void getImage() {
+    public void getImage() {
     	//이미지 리턴   
     }
 }
