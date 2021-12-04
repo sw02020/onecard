@@ -4,6 +4,8 @@ public class CardButton {
 		
 	}
 	public void actionPerformed(ActionEvent e) {
-		//player.check(card);
+//		if(player.check(card)) {
+//			//되면 스킵, 안되면 몇초간 빨갛게 만들기
+//		}
 	}
 }
